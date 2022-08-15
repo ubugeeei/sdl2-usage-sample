@@ -1,5 +1,5 @@
 [package]
-name = "conrod_gui_sample"
+name = "dsl2-sample"
 version = "0.1.0"
 edition = "2021"
 
